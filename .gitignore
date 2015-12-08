@@ -19,3 +19,6 @@
 $ Ignore sublime workspace
 sampleapp.sublime-project
 sampleapp.sublime-workspace
+
+# Ignore Spring files.
+/spring/*.pid
